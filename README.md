@@ -40,8 +40,7 @@ composer require apfm/password-rules
 If you have never used the Composer dependency manager before, head to the Composer website 
 for more information on how to get started.
 
-Optionally, you may publish the package's translation files and config files with
-the following Artisan command.
+Optionally, you may publish the package's translation files with the following Artisan command.
  
 ```bash
 php artisan vendor:publish --provider="Apfm\PasswordRules\ServiceProvider"
